@@ -10,6 +10,7 @@
     </parent>
     <groupId>cn.linyt.work</groupId>
     <artifactId>notice-again</artifactId>
+    <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>notice-again</name>
     <description>汽车维修</description>
